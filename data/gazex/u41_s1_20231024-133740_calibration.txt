@@ -1,0 +1,16 @@
+#eyeTracker.Address = tobii-ttp://is404-100107025875/
+#eyeTracker.DeviceName = 
+#eyeTracker.Model = IS4_Large_Peripheral
+#eyeTracker.SerialNumber = IS404-100107025875
+#eyeTracker.FirmwareVersion = 2.27.0-4014648
+[2023 / 10 / 24 13: 37: 40.226] EnterCalibrationMode
+calibration.CollectData(0.5, 0.5) succeeded at cnt= 1
+calibration.CollectData(0.1, 0.1) succeeded at cnt= 1
+calibration.CollectData(0.1, 0.9) succeeded at cnt= 1
+calibration.CollectData(0.9, 0.1) succeeded at cnt= 1
+calibration.CollectData(0.9, 0.9) succeeded at cnt= 1
+Ratio: valid: 0.9 (497/527), avr_errDist = 165.6
+Sufficient data
+Compute and apply returned Success and collected at 5 points.
+[2023 / 10 / 24 13: 38: 04.624] LeaveCalibrationMode
+
